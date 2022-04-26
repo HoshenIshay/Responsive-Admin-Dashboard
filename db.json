@@ -1,0 +1,36 @@
+{
+    "products" : [
+        {
+            "name" : "Phone" , 
+            "number" : 2056676 ,
+            "payment" : "100$" ,
+            "status" : "Pending"
+        },
+        {
+            "name" : "Computer" , 
+            "number" : 3356616 ,
+            "payment" : "340$" ,
+            "status" : "Pending"
+        },
+        {
+            "name" : "TV" , 
+            "number" : 2078896 ,
+            "payment" : "240$" ,
+            "status" : "Pending"
+        }
+        ,
+        {
+            "name" : "Chess Board" , 
+            "number" : 6059756 ,
+            "payment" : "800$" ,
+            "status" : "Pending"
+        }
+        ,
+        {
+            "name" : "Dresser" , 
+            "number" : 9050943 ,
+            "payment" : "130$" ,
+            "status" : "Pending"
+        }
+    ]
+}
